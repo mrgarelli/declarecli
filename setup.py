@@ -5,7 +5,7 @@ with open("readme.md", "r") as fh:
 
 setuptools.setup(
 	name="declarecli",
-	version="0.0.1",
+	version="0.0.2",
 	author="Matthew Garelli",
 	author_email="mgarelli@alumni.stanford.edu",
 	description="Build you own cli in python declaratively",
