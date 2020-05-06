@@ -1,1 +1,1 @@
-from declarativeOpts import DeclarativeCLI, DeclarativeOptions, DeclarativeCommands
+from .declarativeOpts import DeclarativeCLI, DeclarativeOptions, DeclarativeCommands
